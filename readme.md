@@ -53,8 +53,8 @@ pip install streamlit langchain langchain-community ollama
 This repo contains **three scripts**, each building upon the previous one:  
 
 ### **📄 1️⃣ test-ollama.py (Basic Test)**
-🔹 **Tests your Ollama model with a single user input**.  
-🔹 **Simply takes a prompt and prints the model's response**.  
+🔹 Tests your Ollama model with a single user input.  
+🔹 Simply takes a prompt and prints the model's response.  
 
 Run it with:
 ```bash
@@ -64,9 +64,9 @@ python test-ollama.py
 ---
 
 ### **📄 2️⃣ streamlit-chat.py (Basic Chatbot)**
-🔹 **Creates a simple chatbot using Streamlit**.  
-🔹 **Takes user input and uses the local LLM to respond**.  
-🔹 **No memory or streaming output—just basic interaction**.  
+🔹 Creates a simple chatbot using Streamlit.  
+🔹 Takes user input and uses the local LLM to respond.  
+🔹 No memory or streaming output—just basic interaction**.  
 
 Run it with:
 ```bash
@@ -76,9 +76,9 @@ streamlit run streamlit-chat.py
 ---
 
 ### **📄 3️⃣ ollama-llm-ai-assistant.py (Advanced Chatbot)**
-🔹 **Enhances the chatbot with memory & real-time streaming output**.  
-🔹 **Keeps track of conversation history**.  
-🔹 **Displays responses in real-time as they are generated**.  
+🔹 Enhances the chatbot with memory & real-time streaming output.  
+🔹 Keeps track of conversation history.  
+🔹 Displays responses in real-time as they are generated.  
 
 Run it with:
 ```bash
