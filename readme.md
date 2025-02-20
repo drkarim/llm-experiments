@@ -1,6 +1,6 @@
 # 🦙💬 Local AI Chatbot using Ollama + LangChain + Streamlit
 
-This repository contains Python scripts that use **Ollama**, **LangChain**, and **Streamlit** to run a local AI chatbot on **macOS Silicon (M1/M2/M3/M4)** devices.  
+This repository contains Python scripts that use **Ollama**, **LangChain**, and **Streamlit** to run a local AI chatbot on **macOS Silicon** devices.  
 
 With these scripts, you can:  
 ✅ Run a **local LLM** (Large Language Model) on your Mac  
